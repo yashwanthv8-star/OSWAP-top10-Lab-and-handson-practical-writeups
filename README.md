@@ -127,4 +127,4 @@ All testing shown in this repository was performed exclusively against **DVWA** 
 
 2nd-year cybersecurity student building hands-on, verifiable experience across web application security, network traffic analysis, and log-based detection — with the goal of moving into a SOC Analyst or Application Security role.
 
-**Connect:** *(add your LinkedIn / email / portfolio link here)*
+**Connect:** *yashwathv8@gmail.com
